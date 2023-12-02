@@ -45,3 +45,29 @@
     border: 1px solid gray;
     cursor: pointer;
 }
+
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card {
+    margin: 5px;
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+}
+
+.login-btn {
+    padding: 5px 12px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.search-container {
+    display: flex;
+}
+
+.search {
+    margin-right: 5px;
+}
